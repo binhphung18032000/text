@@ -1,1 +1,2 @@
 E:\LUUDULIEUSINHVIEN\binh\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\LUUDULIEUSINHVIEN\Nhut\text\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
